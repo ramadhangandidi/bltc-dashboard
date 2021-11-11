@@ -1,7 +1,7 @@
 *{
     margin: 0;
     box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 /* Container */
@@ -245,11 +245,11 @@
 
 /* Color Palette */
 .color-palette-1{
-    color: #0C145A;
+    color: #000000;
 }
 
 .color-palette-2{
-    color: #7E8CAC;
+    color: #FFFFFF;
 }
 
 .color-palette-3{
